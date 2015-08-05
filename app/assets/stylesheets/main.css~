@@ -1,0 +1,25 @@
+
+
+body{
+
+
+}
+
+.posts{
+font-family: cursive;
+font-size:20px;
+color:white;
+}
+
+h1{
+font-size:36px;
+color: blue;
+text-align: center;
+
+}
+
+.formsize{
+width: 300px;
+
+
+}
